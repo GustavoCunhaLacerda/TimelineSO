@@ -53,7 +53,7 @@ header p {
 	content: '';
 	background: #dfe6e9;
 	width: 5px;
-	height: 95%;
+	height: 98%;
 	position: absolute;
 	left: 50%;
 	transform: translateX(-50%);
@@ -168,6 +168,50 @@ a:hover, a:active, a:focus {
 	background-size: cover;
 }
 
+.img-fita-mag {
+	background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, .4)), url('./img/fitaMagnetica.jpg') center center no-repeat;
+	background-size: cover;
+}
+
+.img-system-360 {
+	background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, .4)), url('./img/ibm360.jpg') center center no-repeat;
+	background-size: cover;
+}
+
+.img-multic {
+	background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, .4)), url('./img/multics.png') center center no-repeat;
+	background-size: cover;
+}
+
+.img-unix {
+	background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, .4)), url('./img/unix.png') center center no-repeat;
+	background-size: cover;
+}
+
+.img-ibm-pc {
+	background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, .4)), url('./img/ibmpc.jpg') center center no-repeat;
+	background-size: cover;
+}
+
+.img-msdos {
+	background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, .4)), url('./img/msdos.png') center center no-repeat;
+	background-size: cover;
+}
+
+.img-macintosh {
+	background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, .4)), url('./img/macintosh.jpg') center center no-repeat;
+	background-size: cover;
+}
+
+.img-windows {
+	background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, .4)), url('./img/windows.jpg') center center no-repeat;
+	background-size: cover;
+}
+
+.img-android-ios {
+	background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, .4)), url('./img/android-ios.jpg') center center no-repeat;
+	background-size: cover;
+}
 
 .timeline-img-header {
 	height: 200px;
